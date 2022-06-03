@@ -4,7 +4,7 @@ This repository contains the code used to run the deep active learning experimen
 In order to run our code, you'll need these main packages:
 
 - [Python>=3.5](https://www.python.org/)
-- [solo-learn>=1.03]([https://www.tensorflow.org/](https://github.com/vturrisi/solo-learn))
+- [solo-learn>=1.03](https://www.tensorflow.org/](https://github.com/vturrisi/solo-learn)
 - [Pytorch>=1.9](https://pytorch.org/)
 
 ## SSL pre-trained model weights and Soybean disease images 
