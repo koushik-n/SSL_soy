@@ -15,6 +15,6 @@ In order to run our code, you'll need these main packages:
 We use the SSL implementations and linear classification codes from [solo-learn](https://github.com/vturrisi/solo-learn) for this work. 
 We modified the [pytorch vision references](https://github.com/pytorch/vision/tree/main/references/classification) codes for the end-to-end fine-tuning.
 ```
-python3.8 -m torch.distributed.launch --use_env --master_port=6008 train_soy_SSL_finetune.py --data-path data --train-path train --model resnet18 --lr 1e-2 --epochs 50 --batch-size 32 --val-resize-size 256 --val-crop-size 224 --train-crop-size 224 --output-dir finetuning_outputs/barlow
+python3.8 -m torch.distributed.launch --use_env --master_port=6008 train_soy_SSL_finetune.py --data-path data --ckpt-path barlow.ckpt --train-path train --model resnet18 --lr 1e-2 --epochs 50 --batch-size 32 --val-resize-size 256 --val-crop-size 224 --train-crop-size 224 --output-dir finetuning_outputs/barlow
 
 ```
