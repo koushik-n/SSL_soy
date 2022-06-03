@@ -13,5 +13,5 @@ In order to run our code, you'll need these main packages:
 
 ## Running the code
 We use the SSL implementations and linear classification codes from [solo-learn](https://github.com/vturrisi/solo-learn) for this work. 
-We used the [pytorch vision references](https://github.com/pytorch/vision/tree/main/references/classification) codes for the end-to-end fine-tuning.
+We modified the [pytorch vision references](https://github.com/pytorch/vision/tree/main/references/classification) codes for the end-to-end fine-tuning.
 ```
