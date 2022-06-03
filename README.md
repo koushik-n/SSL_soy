@@ -8,7 +8,7 @@ In order to run our code, you'll need these main packages:
 - [Pytorch>=1.9](https://pytorch.org/)
 
 ## SSL pre-trained model weights and Soybean disease images 
-[Images.zip]
+[Images.zip]  
 [Models_and_hyperparameters.zip](https://iastate.box.com/s/hxf20a31ucnr4drsum1f3qoe2p7g6ecr)
 
 ## Running the code
