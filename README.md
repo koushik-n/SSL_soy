@@ -1,4 +1,4 @@
-# Plant Phenotyping with limited aan
+# Plant Phenotyping with Limited Annotation: Doing More with Less
 This repository contains the code used to run the deep active learning experiments detailed in our paper "Plant Phenotyping with Limited Annotation: Doing More with Less"
 ## Dependencies
 In order to run our code, you'll need these main packages:
