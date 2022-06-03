@@ -12,6 +12,6 @@ In order to run our code, you'll need these main packages:
 [Models_and_hyperparameters.zip](https://iastate.box.com/s/hxf20a31ucnr4drsum1f3qoe2p7g6ecr)
 
 ## Running the code
-We used the SSL implementations and linear classification codes from [solo-learn](https://github.com/vturrisi/solo-learn) for this work. 
-We used the codes [pytorch vision references](https://github.com/pytorch/vision/tree/main/references/classification) for the end-to-end fine-tuning.
+We use the SSL implementations and linear classification codes from [solo-learn](https://github.com/vturrisi/solo-learn) for this work. 
+We used the [pytorch vision references](https://github.com/pytorch/vision/tree/main/references/classification) codes for the end-to-end fine-tuning.
 ```
